@@ -5,8 +5,8 @@
 
 -📚 Explorando minhas capacidades na tecnologia!
 
--🧱 Tenho conhecimento em Python,PHP, Node.js, JavaScript, Java, HTML e C/C++.
+-🧱 Tenho conhecimento em Python,PHP, Node.js, JavaScript, Java e HTML
 
--👨🏻‍🎓 Cursando Ciências da Computação na UFPB
+-👨🏻‍🎓 Graduando Ciências da Computação na UFPB
 
 
